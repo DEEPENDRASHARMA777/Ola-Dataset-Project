@@ -1,8 +1,3 @@
-Here is a **more attractive, stylish, premium-quality Markdown version** of your **Ola-Dataset-Project** description — perfect for GitHub README, portfolio, or documentation.
-
----
-
-```markdown
 # 🚖✨ **Ola Dataset Analysis & Insights Project**
 
 Dive into the world of ride-hailing analytics with the **Ola Dataset Project** — a data-driven system designed to uncover meaningful patterns, optimize trip efficiency, and deliver actionable insights across pricing, demand, driver performance, and customer behavior.
@@ -103,4 +98,3 @@ The **Ola Dataset Project** stands as a complete, insight-rich data analytics sy
 - a **project report PDF**,  
 - or a **short resume line** for this project.  
 Just tell me!
-```
